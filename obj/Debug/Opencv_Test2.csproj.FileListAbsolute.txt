@@ -1,0 +1,127 @@
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\Opencv_Test2.exe.config
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\Opencv_Test2.exe
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\Opencv_Test2.pdb
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\OpenCvSharp.dll
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\OpenCvSharp.CPlusPlus.dll
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\obj\Debug\Opencv_Test2.csprojResolveAssemblyReference.cache
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\obj\Debug\Opencv_Test2.Form1.resources
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\obj\Debug\Opencv_Test2.Properties.Resources.resources
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\obj\Debug\Opencv_Test2.csproj.GenerateResource.Cache
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\obj\Debug\Opencv_Test2.exe
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\obj\Debug\Opencv_Test2.pdb
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x86\msvcp120.dll
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x86\msvcr120.dll
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x86\opencv_calib3d2410.dll
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x86\opencv_contrib2410.dll
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x86\opencv_core2410.dll
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x86\opencv_features2d2410.dll
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x86\opencv_ffmpeg2410.dll
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x86\opencv_flann2410.dll
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x86\opencv_gpu2410.dll
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x86\opencv_highgui2410.dll
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x86\opencv_imgproc2410.dll
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x86\opencv_legacy2410.dll
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x86\opencv_ml2410.dll
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x86\opencv_nonfree2410.dll
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x86\opencv_objdetect2410.dll
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x86\opencv_ocl2410.dll
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x86\opencv_photo2410.dll
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x86\opencv_stitching2410.dll
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x86\opencv_superres2410.dll
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x86\opencv_video2410.dll
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x86\opencv_videostab2410.dll
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x64\msvcp120.dll
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x64\msvcr120.dll
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x64\opencv_calib3d2410.dll
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x64\opencv_contrib2410.dll
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x64\opencv_core2410.dll
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x64\opencv_features2d2410.dll
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x64\opencv_flann2410.dll
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x64\opencv_gpu2410.dll
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x64\opencv_highgui2410.dll
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x64\opencv_imgproc2410.dll
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x64\opencv_legacy2410.dll
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x64\opencv_ml2410.dll
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x64\opencv_nonfree2410.dll
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x64\opencv_objdetect2410.dll
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x64\opencv_ocl2410.dll
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x64\opencv_photo2410.dll
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x64\opencv_stitching2410.dll
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x64\opencv_superres2410.dll
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x64\opencv_video2410.dll
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x64\opencv_videostab2410.dll
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\OpenCvSharp.xml
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\OpenCvSharp.CPlusPlus.xml
+C:\Users\rim\Desktop\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\obj\Debug\Opencv_Test2.csprojResolveAssemblyReference.cache
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\obj\Debug\Opencv_Test2.Form1.resources
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\obj\Debug\Opencv_Test2.Properties.Resources.resources
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\obj\Debug\Opencv_Test2.csproj.GenerateResource.Cache
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\obj\Debug\Opencv_Test2.exe
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\obj\Debug\Opencv_Test2.pdb
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x86\msvcp120.dll
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x86\msvcr120.dll
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x86\opencv_calib3d2410.dll
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x86\opencv_contrib2410.dll
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x86\opencv_core2410.dll
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x86\opencv_features2d2410.dll
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x86\opencv_ffmpeg2410.dll
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x86\opencv_flann2410.dll
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x86\opencv_gpu2410.dll
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x86\opencv_highgui2410.dll
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x86\opencv_imgproc2410.dll
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x86\opencv_legacy2410.dll
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x86\opencv_ml2410.dll
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x86\opencv_nonfree2410.dll
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x86\opencv_objdetect2410.dll
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x86\opencv_ocl2410.dll
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x86\opencv_photo2410.dll
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x86\opencv_stitching2410.dll
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x86\opencv_superres2410.dll
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x86\opencv_video2410.dll
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x86\opencv_videostab2410.dll
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x64\msvcp120.dll
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x64\msvcr120.dll
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x64\opencv_calib3d2410.dll
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x64\opencv_contrib2410.dll
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x64\opencv_core2410.dll
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x64\opencv_features2d2410.dll
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x64\opencv_flann2410.dll
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x64\opencv_gpu2410.dll
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x64\opencv_highgui2410.dll
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x64\opencv_imgproc2410.dll
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x64\opencv_legacy2410.dll
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x64\opencv_ml2410.dll
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x64\opencv_nonfree2410.dll
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x64\opencv_objdetect2410.dll
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x64\opencv_ocl2410.dll
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x64\opencv_photo2410.dll
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x64\opencv_stitching2410.dll
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x64\opencv_superres2410.dll
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x64\opencv_video2410.dll
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x64\opencv_videostab2410.dll
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\Opencv_Test2.exe.config
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\Opencv_Test2.exe
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\Opencv_Test2.pdb
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\OpenCvSharp.CPlusPlus.dll
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\OpenCvSharp.dll
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\OpenCvSharp.xml
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\OpenCvSharp.dll.config
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\OpenCvSharp.Blob.dll.config
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\OpenCvSharp.CPlusPlus.xml
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\OpenCvSharp.CPlusPlus.dll.config
+C:\Users\SJ\Google 드라이브\윈도우백업용\Programming\c#\Opencv_Test2\Opencv_Test2\bin\Debug\OpenCvSharp.Extensions.xml
